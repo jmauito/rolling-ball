@@ -1,6 +1,6 @@
 # rolling-ball
 A bouncing ball off the edges of an area.
-![Image of rolling ball](./img/thumbnail.png)
+!(./img/thumbnail.png)
 ## Description
 This is a proposed exercise. It consists of a ball that bounces by touching the edges of the browser window. It is able to adapt to the change of screen size.
 ## How to run
